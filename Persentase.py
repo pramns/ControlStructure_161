@@ -6,5 +6,7 @@ elif persentase >= 80 :
   print("Very Good performance")
 elif persentase >=70 :
   print("Good performance")
-else :
+elif persentase >= 60 :
   print("average performance")
+else :
+  print("Bad performance")
